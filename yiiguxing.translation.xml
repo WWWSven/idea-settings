@@ -1,0 +1,63 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1699433226172" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5tAVkWAz1SWgkZxJoAPP" />
+      </app-key>
+    </option>
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20220420001182630" />
+      </app-key>
+    </option>
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="BAIDU" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="260" />
+    <option name="newTranslationDialogX" value="694" />
+    <option name="newTranslationDialogY" value="470" />
+    <histories>
+      <item value="Ensure it appears we are authenticated with user" />
+      <item value="strategy" />
+      <item value="Associates a given {@link SecurityContext} with the current execution thread. &lt;p&gt; This class provides a series of static methods that delegate to an instance of {@link org.springframework.security.core.context.SecurityContextHolderStrategy}. The purpose of the class is to provide a convenient way to specify the strategy that should be used for a given JVM. This is a JVM-wide setting, since everything in this class is &lt;code&gt;static&lt;code&gt; to facilitate ease of use in calling code. &lt;p&gt; To specify which strategy should be used, you must provide a mode setting. A mode setting is one of the three valid &lt;code&gt;MODE_&lt;code&gt; settings defined as &lt;code&gt;static final&lt;code&gt; fields, or a fully qualified classname to a concrete implementation of {@link org.springframework.security.core.context.SecurityContextHolderStrategy} that provides a public no-argument constructor. &lt;p&gt; There are two ways to specify the desired strategy mode &lt;code&gt;String&lt;code&gt;. The first is to specify it via the system property keyed on {@link SYSTEM_PROPERTY}. The second is to call {@link setStrategyName(String)} before using the class. If neither approach is used, the class will default to using {@link MODE_THREADLOCAL}, which is backwards compatible, has fewer JVM incompatibilities and is appropriate on servers (whereas {@link MODE_GLOBAL} is definitely inappropriate for server use)." />
+      <item value="associated" />
+      <item value="Classes related to the establishment of a security context for the duration of a request (such as an HTTP or RMI invocation). &lt;p&gt; A security context is usually associated with the current execution thread for the duration of the request, making the authentication information it contains available throughout all the layers of an application. &lt;p&gt;" />
+      <item value="related" />
+      <item value="A non-null response indicates the provider had authority to decide on the authentication request and no further providers are tried. If a subsequent provider successfully authenticates the request, the earlier authentication exception is disregarded and the successful authentication will be used. If no subsequent provider provides a non-null response, or a new &lt;code&gt;AuthenticationException&lt;code&gt;, the last &lt;code&gt;AuthenticationException&lt;code&gt; received will be used. If no provider returns a non-null response, or indicates it can even process an &lt;code&gt;Authentication&lt;code&gt;, the &lt;code&gt;ProviderManager&lt;code&gt; will throw a &lt;code&gt;ProviderNotFoundException&lt;code&gt;. A parent {@code AuthenticationManager} can also be set, and this will also be tried if none of the configured providers can perform the authentication. This is intended to support namespace configuration options though and is not a feature that should normally be required. &lt;p&gt;" />
+      <item value="Provider" />
+      <item value="the Spring-EL expression to be evaluated after invoking the protected" />
+      <item value="specifying" />
+      <item value="Annotation for specifying a method access-control expression which will be evaluated to decide whether a method invocation is allowed or not." />
+      <item value="认证 (authentication) 和授权 (authorization) 的区别&#10;以前一直分不清 authentication 和 authorization，其实很简单，举个例子来说：&#10;&#10;你要登机，你需要出示你的 passport 和 ticket，passport 是为了证明你张三确实是你张三，这就是 authentication；而机票是为了证明你张三确实买了票可以上飞机，这就是 authorization。&#10;&#10; &#10;&#10;在 computer science 领域再举个例子：&#10;&#10;你要登陆论坛，输入用户名张三，密码1234，密码正确，证明你张三确实是张三，这就是 authentication；再一check用户张三是个版主，所以有权限加精删别人帖，这就是 authorization。" />
+      <item value="reserved" />
+      <item value="The reserved name &quot;filterObject&quot; can be used within the expression to refer to the current object which is being evaluated." />
+      <item value="refer" />
+      <item value="within" />
+      <item value="For methods which have a single argument which is a collection type, this argument will be used as the filter target." />
+      <item value="Annotation for specifying a method filtering expression which will be evaluated before a method has been invoked. The name of the argument to be filtered is specified using the &lt;tt&gt;filterTarget&lt;tt&gt; attribute. This must be a Java Collection implementation which supports the {@link java.util.Collectionremove(Object) remove} method. Pre-filtering isn't supported on array types and will fail if the value of named filter target argument is null at runtime." />
+      <item value="internal" />
+      <item value="The filename (excluding the extension, and with no path information) that the produced artifact will be called. The default value is &amp;lt;code&amp;gt;{artifactId}-{version}&amp;lt;code&amp;gt;." />
+      <item value="Vector" />
+      <item value="A class can implement the Observer interface when it wants to be informed of changes in observable objects." />
+      <item value="This method is called whenever the observed object is changed. An application calls an Observable object's notifyObservers method to have all the object's observers notified of the change. Params: o – the observable object. arg – an argument passed to the notifyObservers method." />
+      <item value="Matcher" />
+      <item value="perform" />
+      <item value="A MockMvc Result that verifies a specific user is associated to the MvcResult." />
+      <item value="A MockMvc ResultMatcher that verifies a specific user is associated to the MvcResult." />
+      <item value="expectation" />
+      <item value="ResultMatcher that verifies that a specified user is authenticated." />
+      <item value="authenticated" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
+        <entry key="SWEDISH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
