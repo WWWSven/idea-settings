@@ -1,0 +1,7 @@
+<templateSet group="Sven">
+  <template name="test" value="foo bar" description="test live template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
