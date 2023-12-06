@@ -21,6 +21,7 @@
     <option name="newTranslationDialogX" value="694" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="retrieve" />
       <item value="record" />
       <item value="Principal" />
       <item value="claims" />
@@ -66,8 +67,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
