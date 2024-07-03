@@ -21,6 +21,19 @@
     <option name="newTranslationDialogX" value="694" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="calling this are only allowed for the administrators." />
+      <item value="inverse" />
+      <item value="Graph" />
+      <item value="Activation" />
+      <item value="Mapper for the entity {@link User} and its DTO called {@link UserDTO}. Normal mappers are generated using MapStruct, this one is hand-coded as MapStruct support is still in beta, and requires a manual step with an IDE." />
+      <item value="user DTO" />
+      <item value="prettier" />
+      <item value="etc" />
+      <item value="CASUAL" />
+      <item value="Controller advice to translate the server side exceptions to client-friendly json structures. The error response follows RFC7807 - Problem Details for HTTP APIs (https:tools.ietf.orghtmlrfc7807)." />
+      <item value="Inheritance tree of classes should not be too deep" />
+      <item value="Forwards any unmapped paths (except those containing a period) to the client {@code index.html}." />
+      <item value="You have misconfigured your application! It should not run &quot; + &quot;with both the 'dev' and 'prod' profiles at the same time." />
       <item value="VARIANT" />
       <item value="bullseye" />
       <item value="customer" />
@@ -58,21 +71,11 @@
       <item value="Annotation for specifying a method filtering expression which will be evaluated before a method has been invoked. The name of the argument to be filtered is specified using the &lt;tt&gt;filterTarget&lt;tt&gt; attribute. This must be a Java Collection implementation which supports the {@link java.util.Collectionremove(Object) remove} method. Pre-filtering isn't supported on array types and will fail if the value of named filter target argument is null at runtime." />
       <item value="internal" />
       <item value="The filename (excluding the extension, and with no path information) that the produced artifact will be called. The default value is &amp;lt;code&amp;gt;{artifactId}-{version}&amp;lt;code&amp;gt;." />
-      <item value="Vector" />
-      <item value="A class can implement the Observer interface when it wants to be informed of changes in observable objects." />
-      <item value="This method is called whenever the observed object is changed. An application calls an Observable object's notifyObservers method to have all the object's observers notified of the change. Params: o – the observable object. arg – an argument passed to the notifyObservers method." />
-      <item value="Matcher" />
-      <item value="perform" />
-      <item value="A MockMvc Result that verifies a specific user is associated to the MvcResult." />
-      <item value="A MockMvc ResultMatcher that verifies a specific user is associated to the MvcResult." />
-      <item value="expectation" />
-      <item value="ResultMatcher that verifies that a specified user is authenticated." />
-      <item value="authenticated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
