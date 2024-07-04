@@ -21,6 +21,7 @@
     <option name="newTranslationDialogX" value="694" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="Bootstrap overrides https:v4-alpha.getbootstrap.comgetting-startedoptions All values defined in bootstrap source https:github.comtwbsbootstrapblobv4-devscss_variables.scss can be overwritten here Make sure not to add !default to values here" />
       <item value="calling this are only allowed for the administrators." />
       <item value="inverse" />
       <item value="Graph" />
@@ -70,12 +71,11 @@
       <item value="For methods which have a single argument which is a collection type, this argument will be used as the filter target." />
       <item value="Annotation for specifying a method filtering expression which will be evaluated before a method has been invoked. The name of the argument to be filtered is specified using the &lt;tt&gt;filterTarget&lt;tt&gt; attribute. This must be a Java Collection implementation which supports the {@link java.util.Collectionremove(Object) remove} method. Pre-filtering isn't supported on array types and will fail if the value of named filter target argument is null at runtime." />
       <item value="internal" />
-      <item value="The filename (excluding the extension, and with no path information) that the produced artifact will be called. The default value is &amp;lt;code&amp;gt;{artifactId}-{version}&amp;lt;code&amp;gt;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
