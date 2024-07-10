@@ -3,6 +3,7 @@
     <option name="allowReportUsage" value="true" />
     <option name="showInlineAcceptTips" value="false" />
     <option name="showInlineCancelTips" value="false" />
+    <option name="showInlineNextTips" value="false" />
     <option name="showInlinePartialAcceptTips" value="false" />
     <option name="showInlineTriggerTips" value="false" />
   </component>
