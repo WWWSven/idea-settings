@@ -2,9 +2,9 @@
   <component name="StringManipulationState">
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.SwitchFilePathSeparators" />
-        <option name="description" value="Switch file path separators: Windows&lt;-&gt;UNIX" />
-        <option name="textWithMnemonic" value="Switch File Path Separators: Windows&lt;-&gt;UNIX" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToSnakeCaseAction" />
+        <option name="description" value="To snake_case" />
+        <option name="textWithMnemonic" value="To snake_case" />
       </UniversalActionModel>
     </option>
   </component>
