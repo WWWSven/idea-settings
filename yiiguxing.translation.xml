@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1760149655675" />
+    <option name="lastTrimTime" value="1762244411063" />
   </component>
   <component name="Translation.Settings">
     <option name="aliTranslateSettings">
@@ -17,10 +17,8 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogX" value="694" />
-    <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="Exception" />
       <item value="Criteria class for the {@link com.ticket.domain.TicketVenues} entity. This class is used in {@link com.ticket.web.rest.TicketVenuesResource} to receive all the possible filtering options from the Http GET request parameters. For example the following could be a valid request: {@code ticket-venues?id.greaterThan=5&amp;attr1.contains=something&amp;attr2.specified=false} As Spring is unable to properly convert the types, unless specific {@link Filter} class are used, we need to use fix type specific filters." />
       <item value="Filter" />
       <item value="Bootstrap overrides https:v4-alpha.getbootstrap.comgetting-startedoptions All values defined in bootstrap source https:github.comtwbsbootstrapblobv4-devscss_variables.scss can be overwritten here Make sure not to add !default to values here" />
@@ -70,7 +68,6 @@
       <item value="The reserved name &quot;filterObject&quot; can be used within the expression to refer to the current object which is being evaluated." />
       <item value="refer" />
       <item value="within" />
-      <item value="For methods which have a single argument which is a collection type, this argument will be used as the filter target." />
     </histories>
     <option name="languageScores">
       <map>
