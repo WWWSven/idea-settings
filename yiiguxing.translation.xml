@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="parallel" />
       <item value="Exception" />
       <item value="Criteria class for the {@link com.ticket.domain.TicketVenues} entity. This class is used in {@link com.ticket.web.rest.TicketVenuesResource} to receive all the possible filtering options from the Http GET request parameters. For example the following could be a valid request: {@code ticket-venues?id.greaterThan=5&amp;attr1.contains=something&amp;attr2.specified=false} As Spring is unable to properly convert the types, unless specific {@link Filter} class are used, we need to use fix type specific filters." />
       <item value="Filter" />
@@ -67,12 +68,12 @@
       <item value="reserved" />
       <item value="The reserved name &quot;filterObject&quot; can be used within the expression to refer to the current object which is being evaluated." />
       <item value="refer" />
-      <item value="within" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE_SIMPLIFIED" value="1" />
+        <entry key="ENGLISH" value="64" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
