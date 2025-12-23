@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1764836202657" />
+    <option name="lastTrimTime" value="1766469928693" />
   </component>
   <component name="Translation.Settings">
     <option name="aliTranslateSettings">
@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="configuration key 'resource.loader' has been deprecated in favor of 'resource.loaders'" />
       <item value="parallel" />
       <item value="Exception" />
       <item value="Criteria class for the {@link com.ticket.domain.TicketVenues} entity. This class is used in {@link com.ticket.web.rest.TicketVenuesResource} to receive all the possible filtering options from the Http GET request parameters. For example the following could be a valid request: {@code ticket-venues?id.greaterThan=5&amp;attr1.contains=something&amp;attr2.specified=false} As Spring is unable to properly convert the types, unless specific {@link Filter} class are used, we need to use fix type specific filters." />
@@ -67,13 +68,12 @@
       <item value="认证 (authentication) 和授权 (authorization) 的区别&#10;以前一直分不清 authentication 和 authorization，其实很简单，举个例子来说：&#10;&#10;你要登机，你需要出示你的 passport 和 ticket，passport 是为了证明你张三确实是你张三，这就是 authentication；而机票是为了证明你张三确实买了票可以上飞机，这就是 authorization。&#10;&#10; &#10;&#10;在 computer science 领域再举个例子：&#10;&#10;你要登陆论坛，输入用户名张三，密码1234，密码正确，证明你张三确实是张三，这就是 authentication；再一check用户张三是个版主，所以有权限加精删别人帖，这就是 authorization。" />
       <item value="reserved" />
       <item value="The reserved name &quot;filterObject&quot; can be used within the expression to refer to the current object which is being evaluated." />
-      <item value="refer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="62" />
-        <entry key="CHINESE_SIMPLIFIED" value="1" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE_SIMPLIFIED" value="2" />
+        <entry key="ENGLISH" value="65" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
