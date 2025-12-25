@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="20251225110703" />
       <item value="configuration key 'resource.loader' has been deprecated in favor of 'resource.loaders'" />
       <item value="parallel" />
       <item value="Exception" />
@@ -67,12 +68,11 @@
       <item value="Annotation for specifying a method access-control expression which will be evaluated to decide whether a method invocation is allowed or not." />
       <item value="认证 (authentication) 和授权 (authorization) 的区别&#10;以前一直分不清 authentication 和 authorization，其实很简单，举个例子来说：&#10;&#10;你要登机，你需要出示你的 passport 和 ticket，passport 是为了证明你张三确实是你张三，这就是 authentication；而机票是为了证明你张三确实买了票可以上飞机，这就是 authorization。&#10;&#10; &#10;&#10;在 computer science 领域再举个例子：&#10;&#10;你要登陆论坛，输入用户名张三，密码1234，密码正确，证明你张三确实是张三，这就是 authentication；再一check用户张三是个版主，所以有权限加精删别人帖，这就是 authorization。" />
       <item value="reserved" />
-      <item value="The reserved name &quot;filterObject&quot; can be used within the expression to refer to the current object which is being evaluated." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="62" />
-        <entry key="CHINESE_SIMPLIFIED" value="2" />
+        <entry key="CHINESE_SIMPLIFIED" value="4" />
         <entry key="ENGLISH" value="65" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
