@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="retrieve" />
       <item value="acknowledge" />
       <item value="Action 'default' not found in successors [started] of node MyStartNode" />
       <item value="Flow might end: Action 'default' not found in successors [started] of node MyStartNode" />
@@ -46,7 +47,6 @@
       <item value="bullseye" />
       <item value="customer" />
       <item value="verify Key" />
-      <item value="retrieve" />
       <item value="record" />
       <item value="Principal" />
       <item value="claims" />
@@ -72,8 +72,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="62" />
-        <entry key="CHINESE_SIMPLIFIED" value="8" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE_SIMPLIFIED" value="9" />
+        <entry key="ENGLISH" value="70" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
