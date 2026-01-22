@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="cinematic" />
       <item value="indent" />
       <item value="retrieve" />
       <item value="acknowledge" />
@@ -67,13 +68,12 @@
       <item value="Classes related to the establishment of a security context for the duration of a request (such as an HTTP or RMI invocation). &lt;p&gt; A security context is usually associated with the current execution thread for the duration of the request, making the authentication information it contains available throughout all the layers of an application. &lt;p&gt;" />
       <item value="related" />
       <item value="A non-null response indicates the provider had authority to decide on the authentication request and no further providers are tried. If a subsequent provider successfully authenticates the request, the earlier authentication exception is disregarded and the successful authentication will be used. If no subsequent provider provides a non-null response, or a new &lt;code&gt;AuthenticationException&lt;code&gt;, the last &lt;code&gt;AuthenticationException&lt;code&gt; received will be used. If no provider returns a non-null response, or indicates it can even process an &lt;code&gt;Authentication&lt;code&gt;, the &lt;code&gt;ProviderManager&lt;code&gt; will throw a &lt;code&gt;ProviderNotFoundException&lt;code&gt;. A parent {@code AuthenticationManager} can also be set, and this will also be tried if none of the configured providers can perform the authentication. This is intended to support namespace configuration options though and is not a feature that should normally be required. &lt;p&gt;" />
-      <item value="Provider" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="62" />
-        <entry key="CHINESE_SIMPLIFIED" value="10" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE_SIMPLIFIED" value="11" />
+        <entry key="ENGLISH" value="72" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
